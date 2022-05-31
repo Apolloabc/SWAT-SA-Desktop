@@ -5,6 +5,8 @@
 > 技术框架使用的是Eletron + Vue2，UI使用Element
 
 > static目录下还有两个文件夹太大无法上传，需要去服务器拷贝：ErrorProp、videos
+>
+> GitHub网址：https://github.com/Apolloabc/SWAT-SA-Desktop
 
 #### Build Setup
 
